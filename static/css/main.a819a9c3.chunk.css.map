@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,EACE,WAAY,CACZ,eAAiB","file":"main.a819a9c3.chunk.css","sourcesContent":["p {\n  color: green;\n  font-weight: bold;\n}\n"]}
